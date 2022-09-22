@@ -1,6 +1,8 @@
 # Exercise1: Azure利用準備
 
-【目次】
+## 【目次】
+
+![](images/e01-0000-prepare.png)
 
 1. [Azureポータルへアクセス](#azureポータルへアクセス)
 2. [MFA(Multi Factor Authentication)設定](#mfamulti-factor-authentication設定)
