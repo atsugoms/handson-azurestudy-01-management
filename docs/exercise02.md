@@ -1,4 +1,4 @@
-# Exercise2: Azure利用準備
+# Exercise2: リソースグループ作成
 
 ## 【目次】
 
