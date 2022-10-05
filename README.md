@@ -23,11 +23,11 @@
 ## 前提条件
 
 * ネットワーク知識
-* Node.js を使った開発基礎知識
+
 
 ## ハンズオン資料
 
 <!-- 1. [環境準備](/docs/handson-prepare.md) -->
-1. [ハンズオン](/docs/exercise00.md)
+1. [ハンズオン](/docs/README.md)
 
 
